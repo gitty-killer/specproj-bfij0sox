@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-bfij0sox"",
-  ""goal"": ""batch normalizer for incident triage"",
-  ""language"": ""rust"",
-  ""template"": ""rust-cli""
+    "name":  "specproj-bfij0sox",
+    "goal":  "batch normalizer for incident triage",
+    "language":  "rust",
+    "template":  "rust-cli"
 }
